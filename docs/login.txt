@@ -1,0 +1,9 @@
+Admin panel
+admin / admin
+
+MySQL
+root / secret
+
+Registeret user
+jear@eaa.dk
+timhansson / timhansson
