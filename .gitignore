@@ -36,3 +36,6 @@ xmlrpc.php
 /modules
 /profiles
 /scripts
+
+# Ignore db-backup files
+/_backup
